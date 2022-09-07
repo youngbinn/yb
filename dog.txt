@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 name : frodo
+=======
+name : marron
+>>>>>>> contest
